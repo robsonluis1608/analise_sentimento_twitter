@@ -1,6 +1,5 @@
 # Bibliotecas
 import os
-import openai
 import tweepy as tw
 import re
 import string
